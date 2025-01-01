@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Me Mateo Julio Gomero Rios</h1>
-<h3 align="center">Desarrollador de Frontend apasionado con el diseño y programación</h3>
+<h3 align="center">Frontend developer passionate about design and programming</h3>
 
 - 🌱 I’m currently learning **iOS App Development | Swift, SwiftUI, Core Data, MapKit, networks and APIS**
 
